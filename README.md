@@ -1,4 +1,4 @@
-# MiniProjectOnDocker
+# Mini Project On Docker
 Mini Project for my cousins to help them learn docker ;)
 
 # Topic
