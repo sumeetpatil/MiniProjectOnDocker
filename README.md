@@ -1,5 +1,5 @@
 # MiniProjectOnDocker
-Mini Project for my cousins on docker ;)
+Mini Project for my cousins to help them learn docker ;)
 
 # Topic
 Making deployments easy and scalable with docker on cloud
