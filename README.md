@@ -9,3 +9,5 @@ Now a days deployments plays a crutual role. Companies need faster deployments s
 Docker helps up build, ship and deploy your software.
 
 We will build a software which would take webcontent from Github/Zip and deploy it on fly. Within fraction of seconds your website is live. We can scale the website with the help of docker containers. Docker is a trending technology in the new fast paced market.
+
+# Details
