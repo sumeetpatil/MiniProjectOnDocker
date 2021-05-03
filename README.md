@@ -14,8 +14,16 @@ We will build a software which would take webcontent from Github/Zip and deploy 
 
 ![MiniProject](dockerminiproject.png)
 - The main motive of this project is to understand the power of the lastest cloud technology named "[Docker](https://www.docker.com)".
-- This project is to run web pages from Github/Zip with just a click of a button.
+- This project is used to run web pages from Github/Zip with just a click of a button.
 - A simple web page is used to add a Git Repository URL which has the webpage or a Zip file containing the web content. This web page also contains a button go.
 - Once the go is pressed the web content is send to NodeJS Server which inturn interacts with docker to run the webpage which was in GithubUrl/Zip.
 - Once the site is live within fraction of seconds we will get the URL of the page which we can use.
 - We can run many websites like this on different ports within franction of seconds.
+
+
+### More on Docker part
+- Docker works similar to a Virtual Machine.
+- VM are heaviy. It is complete OS running. 
+- Docker Containers are small, fast, and portable.
+- So basically in this project we will run mutiple light weight docker containers which has "Apache Httpd" server installed with the web content.
+- Apache Httpd server is a web server which serves Html/CSS/JavaScript.
